@@ -5,6 +5,8 @@
   border: 2px solid black;
   border-radius: 10px 10px 0px 0px;
   overflow: hidden;
+  cursor: pointer;
+
 }
 
 .p-browser {
@@ -35,4 +37,11 @@
 
 .p:hover img {
   transform: translateY(-100%);
+}
+
+@media screen and ( max-width: 480px){
+  .p{
+    width: 40%;
+    height: 20vh;
+  }
 }
