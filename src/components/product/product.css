@@ -6,7 +6,11 @@
   border-radius: 10px 10px 0px 0px;
   overflow: hidden;
   cursor: pointer;
+  transition: width 2s;
 
+}
+.p:hover{
+  height: 80vh;
 }
 
 .p-browser {
@@ -19,11 +23,25 @@
 }
 
 .p-circle {
-  width: 6px;
-  height: 6px;
+  width: 9px;
+  height: 9px;
   border-radius: 50%;
   margin: 3px;
   background-color: white;
+}
+.p-circle1 {
+  width: 9px;
+  height: 9px;
+  border-radius: 50%;
+  margin: 3px;
+  background-color: rgb(243, 6, 6);
+}
+.p-circle2 {
+  width: 9px;
+  height: 9px;
+  border-radius: 50%;
+  margin: 3px;
+  background-color: rgb(13, 250, 5);
 }
 
 
@@ -36,7 +54,7 @@
 
 
 .p:hover img {
-  transform: translateY(-100%);
+  transform: translateY(-50%);
 }
 
 @media screen and ( max-width: 480px){

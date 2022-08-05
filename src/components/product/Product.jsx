@@ -6,8 +6,8 @@ function Product({ img, link }) {
     <div className="p">
       <div className="p-browser">
         <div className="p-circle"></div>
-        <div className="p-circle"></div>
-        <div className="p-circle"></div>
+        <div className="p-circle1"></div>
+        <div className="p-circle2"></div>
       </div>
       <div className="img">
       <a href={link} target="blank">
