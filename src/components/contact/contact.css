@@ -1,5 +1,4 @@
 .c {
-  height: 80vh;
   position: relative;
 }
 
@@ -12,6 +11,7 @@
 }
 
 .c-wrapper {
+
   padding: 50px;
   display: flex;
 }

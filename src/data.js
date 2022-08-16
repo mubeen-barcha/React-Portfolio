@@ -7,31 +7,31 @@ export const products = [
     {
       id: 1,
       img: template,  
-      link: "http://lama.dev",
+      link: "",
     },
     {
       id: 2,
       img: template1,
-      link: "http://lama.dev",
+      link: "",
     },
     {
       id: 3,
       img: template2,
-      link: "http://lama.dev",
+      link: "",
     },
     {
       id: 4,
       img: template2,
-      link: "http://lama.dev",
+      link: "",
     },
     {
       id: 5,
       img: template,
-      link: "http://lama.dev",
+      link: "",
     },
     {
       id: 6,
       img: template1,
-      link: "http://lama.dev",
+      link: "",
     },
   ];

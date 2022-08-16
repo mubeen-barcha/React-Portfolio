@@ -62,4 +62,7 @@
     width: 40%;
     height: 20vh;
   }
+  .p:hover{
+     height: 50vh;
+  }
 }
