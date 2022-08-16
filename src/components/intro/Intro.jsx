@@ -1,6 +1,6 @@
 import React from "react";
 import "./intro.css";
-import Me from "../../img/sun.png";
+import Me from "../../img/mans.png";
 import TypeAnimation from "react-type-animation";
 
 function Intro() {
