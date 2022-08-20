@@ -45,22 +45,21 @@ function Contact() {
           <div className="c-info">
             <div className="c-info-item">
               <img src={Phone} alt="" className="c-icon" />
-              +9232743958
+              +923499749467
             </div>
             <div className="c-info-item">
               <img src={Email} alt="" className="c-icon" />
-              contact@email.com
+              mubeenbarcha235@gmail.com
             </div>
             <div className="c-info-item">
               <img src={Address} alt="" className="c-icon" />
-              245 king street, touterie victoria 8530 australia
+              Rahimabad No# 1 near DJ high school Rahimabad
             </div>
           </div>
         </div>
         <div className="c-right">
           <p className="c-desc">
-            <b>what is your story?</b> Lorem ipsum dolor sit amet consectetur
-            adipisicing elit. Pariatur quod hic earum quidem praesentium vitae.
+            <b>what is your work?</b> Full Name. Obviously, getting the contact's name is the most important field to include on a contact form. ..
           </p>
           <form ref={formRef} onSubmit={handleSubmit}>
             <input style={{backgroundColor: darkMode && "#333"}} type="text" placeholder="Name" name="user_name" />
