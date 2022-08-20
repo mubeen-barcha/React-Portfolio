@@ -1,6 +1,6 @@
 import React from "react";
 import "./intro.css";
-import Me from "../../img/mans.png";
+import Me from "../../img/menss.png";
 import TypeAnimation from "react-type-animation";
 
 function Intro() {
@@ -13,23 +13,20 @@ function Intro() {
           <TypeAnimation
             className="i-name"
             cursor={false}
-            sequence={["Rayan khan", 5000, ""]}
+            sequence={["Mubeen Anwar", 5000, ""]}
             wrapper="h2"
             repeat={Infinity}
           />
           <div className="i-title">
             <div className="i-title-wrapper">
+              <div className="i-title-item">Front-end Developer</div>
               <div className="i-title-item">Web Developer</div>
-              <div className="i-title-item">UI/UX Designer</div>
               <div className="i-title-item">Photograper</div>
               <div className="i-title-item">Writer</div>
             </div>
           </div>
           <p className="i-desc">
-            Lorem ipsum, dolor sit amet consectetur adipisicing elit. A, quas
-            beatae quos earum eveniet, incidunt aperiam recusandae rem
-            necessitatibus quam labore quod voluptate nam debitis voluptatum
-            maiores voluptas eos facilis!
+          Front end developers are computer programmers who specialize in website design. Front end developer duties include determining the structure and design of web pages, striking a balance between functional and aesthetic design, and ensuring web design is optimized for smartphones. Completely free trial, no card required.
           </p>
         </div>
         <svg

@@ -17,16 +17,16 @@ function About() {
         <div className="a-right">
        <h1 className='a-title'>About me</h1>
        <p className='a-sub'>
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. Molestias eius placeat dicta fuga fugit, facilis debitis
+       A Front End Developer is a person who will use any of the frameworks or the packages such as Jquery, Angular JS, Angular JS 2, NodeJS, ReactJs, backboneJS, Bootstrap, etc
        </p>
        <p className='a-desc'>
-        Lorem ipsum dolor sit amet consectetur, adipisicing elit. Inventore quidem, tempora atque quam non cumque nam enim iusto corporis eius nisi, libero dolorum reprehenderit hic et accusantium quasi fugiat harum.
+        Meticulous web developer with over 1 years of front end experience and passion for responsive website design and a firm believer in the mobile-first approach.
        </p>
        <div className="a-award">
         <img src={Award} alt="" className='a-award-img' />
         <div className='a-award-texts'>
-            <h4 className='a-award-title'>International Design</h4>
-            <p className='a-award-desc'>Lorem ipsum dolor sit amet consectetur adipisicing elit. Enim aperiam cupiditate voluptate? Molestiae ipsum expedita praesentium dignissimos culpa explicabo, eius doloremque ad </p>
+            <h4 className='a-award-title'>Front end Development</h4>
+            <p className='a-award-desc'>Front-end web development is the development of the graphical user interface of a website, through the use of HTML, CSS, and JavaScript, so that users can view and interact with that website.</p>
 
         </div>
        </div>

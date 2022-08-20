@@ -8,11 +8,9 @@ function ProductList() {
   return (
     <div className="pl">
       <div className="pl-texts">
-        <h1 className="pl-title"> Create & inspire. it's Rayan</h1>
+        <h1 className="pl-title"> Create & inspire. it's Mubeen</h1>
         <p className="pl-desc">
-          Lorem ipsum, dolor sit amet consectetur adipisicing elit. Est commodi
-          praesentium vero voluptatum harum distinctio atque numquam facere
-          accusantium,
+        A Front End Developer is a person who will use any of the frameworks or the packages such as Jquery, Angular JS, Angular JS 2, NodeJS, ReactJs, backboneJS, Bootstrap, etc
         </p>
       </div>
       <div className="pl-lists">
